@@ -12,7 +12,7 @@ I'm Atiye Ziaei — a passionate developer & problem-solver who thrives on creat
 C# • Python • PHP • Java • JavaScript • HTML/CSS • Spark  
 
 🚀 **AI / ML & Data Stack:**  
-NumPy • Pandas • scikit-learn • TensorFlow • Keras • PyTorch • CatBoost • Apache Spark • MLflow • Jupyter Notebook • OpenCV •
+NumPy • Pandas • scikit-learn • TensorFlow • Keras • PyTorch • CatBoost • Apache Spark • MLflow • Jupyter Notebook • OpenCV • هر ابزار و فریم‌ورک مرتبط که پروژه‌ای نیاز باشه  
 
 🧩 **I love:**  
 Challenging opportunities • New experiences • Creative problem-solving  
@@ -66,7 +66,7 @@ Every project I build comes from a desire to grow, experiment, and make somethin
 
 - 🌐 **Portfolio / Kaggle / Projects Insight:** https://kaggle.com/atiyeziaei  
 - 💼 **LinkedIn:** https://linkedin.com/in/atiyeziaei  
-- 📧 **Email:**  atiyez@yahoo.com
+- 📧 **Email:** atiyez@yahoo.com
 
 ---
 
