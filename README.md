@@ -66,7 +66,7 @@ Every project I build comes from a desire to grow, experiment, and make somethin
 
 - 🌐 **Portfolio / Kaggle / Projects Insight:** https://kaggle.com/atiyeziaei  
 - 💼 **LinkedIn:** https://linkedin.com/in/atiyeziaei  
-- 📧 **Email:** (در صورت تمایل میتونم اضافه‌ش کنم)
+- 📧 **Email:**  atiyez@yahoo.com
 
 ---
 
