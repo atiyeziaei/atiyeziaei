@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atiyeziaei/atiyeziaei/main/ai-neural-light.svg" width="100%" />
-</p>
-
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
